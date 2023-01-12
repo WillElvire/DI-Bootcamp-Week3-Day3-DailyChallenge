@@ -8,7 +8,7 @@
 
 //start setting up variables
 let form  = createElement('form');
-let input = document.createElement('input');
+let input = createElement('input');
 let userEntries;
 
 //append element to de dom
